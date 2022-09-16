@@ -1,6 +1,18 @@
 alfred-datetime-format-converter
 ================================
 
+```
+/usr/local/bin/python process.py "{query}"
+cd /Users/josh/Library/Application Support/Alfred/Alfred.alfredpreferences/workflows
+
+
+
+```
+
+
+
+
+
 Alfred 2 workflow for converting between timestamps and formatted datetime strings with ease.
 
 Simply type "df" followed by: "now", a UTC unix timestamp, or a formatted datetime string.
